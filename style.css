@@ -1,0 +1,74 @@
+header {
+    font-family: 'Tangerine', cursive;
+    font-size: 72px;
+}
+
+body {
+    background: rgb(53,53,53);
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Unica One', cursive;
+    font-size: 26px;
+}
+
+#itsabouttime {
+    margin-top: -35px;
+}
+
+#firstimage {
+    width: 540px;
+}
+
+div.text {
+    border: 2px solid #FDEFA6;
+    border-radius: 13px;
+    margin-top: 20px;
+    background: #1A1818;
+}
+
+.watch_description {
+    font-family: 'Dosis', sans-serif;
+    font-size: 16px;
+    text-align: left;
+}
+
+#secondimage {
+    float: left;
+widows: 250px;
+height: 250px;
+margin:10px;
+overflow: auto;
+}
+
+#classicwatch {
+   text-align: left;
+}
+
+#thirdimage {
+    float: left;
+    widows: 250px;
+    height: 250px;
+    margin:10px;
+    overflow: auto;
+}
+
+#mechanicalwatch {
+    text-align: left;
+}
+
+#fourthimage {
+    float: left;
+    widows: 250px;
+    height: 250px;
+    margin:10px;
+    overflow: auto;
+}
+
+#pocketwatch {
+    text-align: left;
+}
+
+footer {
+    margin: 20px;
+    font-family: 'Dosis', sans-serif;
+}
